@@ -29,10 +29,27 @@ main {
     width: 20%;
 }
 /*OREDERS*/
+.orders{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 18px;
+    color: #FFFFFF;
+    margin-left: 20px;
 
+
+}
+.general-block {
+    width:1200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-left: 15px;
+}
 .header-block {
     display: flex;
     align-items: center;
+    padding: 17px 25px;
 }
 .header-en-block h1 {
     font-weight: 600;
@@ -50,6 +67,7 @@ main {
     font-weight: 400;
     font-size: 27px;
     color: #FFFFFF;
+
 }
 .bottom-block button {
     width: 116px;
@@ -60,11 +78,21 @@ main {
     font-weight: 400;
     font-size: 14px;
     color: #FFFFFF;
+    margin-left: 10px;
+
 }
 .bottom-block {
     display: flex;
     align-items: center;
-    margin: 20px 20px;
+    margin: 0  25px;
+}
+.blocks {
+    width: 220px;
+    height: 143px;
+    border: 1px solid #BDBDBD;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin: 30px 0;
 }
 
 
