@@ -50,7 +50,17 @@ nav {
 
     color: #FFFFFF;
 
+
 }
+
+
+.table-one{
+    width: 70px;
+    height: 26px;
+    border: 1px solid #FFFFFF;
+    border-radius: 15px;
+}
+
 /*OREDERS*/
 
 .header-block {
