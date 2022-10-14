@@ -139,7 +139,7 @@ nav {
     font-size: 18px;
     line-height: 18px;
     color: #FFFFFF;
-    margin-left: 20px;
+    margin-left: 20px;}
 
 .order-page select {
     background: #FFFFFF;
@@ -156,7 +156,7 @@ nav {
     padding: 10px;
 }
 
-}
+
 .general-block {
     width:1200px;
     display: flex;
@@ -197,7 +197,7 @@ nav {
     font-weight: 400;
     font-size: 14px;
     color: #FFFFFF;
-    margin-left: 10px;
+    margin-left: 10px;}
 
 .circle-outline {
     color: white;
@@ -239,7 +239,7 @@ hr{
 
 /*OREDERS*/
 
-}
+
 .bottom-block {
     display: flex;
     align-items: center;
