@@ -34,7 +34,11 @@ main {
 
 }
 
-
+.logo {
+    color: #FFFFFF;
+    font-family: sans-serif;
+    white-space: nowrap;
+}
 nav {
     display: flex;
     flex-direction: column;
