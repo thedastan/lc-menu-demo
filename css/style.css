@@ -257,3 +257,10 @@ hr{
     padding: 10px 20px;
     margin: 30px 0;
 }
+.fancybox img{
+    width: 350px;
+    height: 200px;
+}
+.fancy-gen{
+    padding: 100px 60px;
+}
