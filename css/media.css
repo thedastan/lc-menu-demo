@@ -1,0 +1,65 @@
+@media (max-width: 1400px) {
+
+ .main{
+     width: 100%;
+ }
+}
+
+
+@media (max-width: 1200px) {
+    #orders {
+        width: 90%;
+    }
+.header--general {
+    width: 90%;
+}
+
+}
+
+@media (max-width: 1024px) {
+
+}
+
+@media (max-width: 992px) {
+
+}
+
+@media (max-width: 768px) {
+    .table button{
+        margin: 10px 0;
+    }
+}
+
+@media (max-width: 633px) {
+    .sidebar {
+        display: none;
+    }
+  .header--general {
+      width: 90%;
+  }
+    .fancybox img{
+        width: 90%;
+        object-fit: cover;
+
+    }
+}
+@media (max-width: 390px) {
+    .fancybox img{
+        width: 90%;
+        object-fit: cover;
+
+    }
+}
+@media (max-width: 340px) {
+    .fancybox img{
+        width: 90%;
+        object-fit: cover;
+
+    }
+    hr {
+        display: flex;
+    }
+    .table button {
+        margin: 10px 0;
+    }
+}
